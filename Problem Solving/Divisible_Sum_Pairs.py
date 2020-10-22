@@ -5,7 +5,6 @@ n = int(nk[0])
 k = int(nk[1])
 
 ar = list(map(int, input().rstrip().split()))
-print(ar)
 
 sum,i = 0,0
 while i < n:
